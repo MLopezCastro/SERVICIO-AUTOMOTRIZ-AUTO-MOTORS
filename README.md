@@ -12,12 +12,12 @@ Antes de cargar los datos en Power BI, se identificaron y corrigieron **4 errore
 ## 2. Carga de Datos en Power BI
 Se cargaron las siguientes tablas en Power BI desde los archivos Excel:
 - **Empleados_Limpio.xlsx**
-- **Ventas_Limpio.xlsx**
+- **Ventas_Limpio_2.xlsx**
 
 ## 3. Creación de Relaciones en el Modelo de Datos
 Power BI detectó automáticamente la relación entre las tablas:
 - **Empleados_Limpio** → `Id_Empleado` (Clave primaria)
-- **Ventas_Limpio** → `Empleado` (Clave foránea)
+- **Ventas_Limpio_2** → `Empleado` (Clave foránea)
 
 Esta relación permite analizar las ventas por cada empleado y evaluar el rendimiento del personal.
 
