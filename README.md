@@ -1,5 +1,5 @@
 
-# Documentación del Proyecto: Análisis del Impacto de la Pandemia en Auto Motor S
+# Documentación del Proyecto: Análisis del Impacto de la Pandemia en Auto Motors
 
 ## 1. Corrección de Datos en Excel
 Antes de cargar los datos en Power BI, se identificaron y corrigieron **4 errores en la columna Ventas**, donde los valores tenían puntos separadores incorrectos (por ejemplo, `75.633.620` en lugar de `75633620`).
