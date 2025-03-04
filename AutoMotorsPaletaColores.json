@@ -1,0 +1,13 @@
+{
+    "name": "Auto Motors Theme",
+    "dataColors": [
+        "#404e4d",  
+        "#63595c",  
+        "#646881",  
+        "#62bec1",  
+        "#5ad2f4"   
+    ],
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "tableAccent": "#62bec1"
+}
